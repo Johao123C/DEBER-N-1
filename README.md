@@ -27,6 +27,7 @@
 ![5](https://user-images.githubusercontent.com/116811166/200749693-e2d2e0f4-b093-4999-a567-499907e6d3c1.png)
 ## <p align=center> Resistores
 ![6](https://user-images.githubusercontent.com/116811166/200749998-c508fa89-6763-4543-9241-c9a2bbf0db42.png)
+  
 
 
 
