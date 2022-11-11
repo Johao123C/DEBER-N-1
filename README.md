@@ -46,6 +46,7 @@
 ![18](https://user-images.githubusercontent.com/116811166/200997681-eb8fc43c-d926-4f43-bae9-b47b5d71cc3c.png)
 ![19](https://user-images.githubusercontent.com/116811166/200997686-2ee8a94c-3e85-4059-973d-1e5382c4d119.png)
 ## 4. Video
+ https://youtu.be/vyC5l9cUjSM
   
 ## 5. Conclusiones
 1. La notacion cientifica simplifica la lectura de cantidades muy grandes o muy pequeñas.
